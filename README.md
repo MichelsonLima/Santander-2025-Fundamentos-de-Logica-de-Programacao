@@ -20,7 +20,6 @@ Ao final deve se exibir uma mensagem:
 <br>
 <h3>2º Projeto:</h3>
 <strong>Objetivo:</strong>
-
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
@@ -32,7 +31,6 @@ Se vitórias for entre 81 e 90 = Diamante<br>
 Se vitórias for entre 91 e 100= Lendário<br>
 Se vitórias for maior ou igual a 101 = Imortal
 
-<strong>Saída</strong>
-
+<strong>Saída:</strong>
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
