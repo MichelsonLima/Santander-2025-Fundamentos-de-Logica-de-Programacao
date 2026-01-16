@@ -32,7 +32,7 @@ Se vitórias for entre 81 e 90 = Diamante<br>
 Se vitórias for entre 91 e 100= Lendário<br>
 Se vitórias for maior ou igual a 101 = Imortal
 
-<h3>Saída</h3>
+<strong>Saída</strong>
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
