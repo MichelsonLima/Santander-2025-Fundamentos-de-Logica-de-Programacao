@@ -38,6 +38,7 @@ Ao final deve se exibir uma mensagem:
 <h3>3º Projeto:</h3>
 <strong>Objetivo:</strong>
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+
 - nome
 - idade
 - tipo (ex: guerreiro, mago, monge, ninja )
